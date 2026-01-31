@@ -112,14 +112,6 @@ The source code for this project is **private** due to intellectual property con
 
 ---
 
-## 📚 Project Context
-This project was developed as a **personal / portfolio mobile application project**  
-focused on Flutter development and UI/UX design.
-
-> ❌ Not a Final Year Project (FYP)
-
----
-
 ## 👨‍💻 Author
 **Abdul Rehman**  
 🎓 BS Computer Science  
