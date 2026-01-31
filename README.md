@@ -1,13 +1,13 @@
-# YumQuick – Food Ordering & Delivery App 🍔🚀
+# YumQuick – Food Ordering & Delivery App 
 
-## 📌 Overview
+##  Overview
 **YumQuick** is a modern mobile-based **food ordering and delivery application** designed to provide users with a fast, smooth, and intuitive food ordering experience. The app enables users to browse food categories, view detailed dishes, customize orders, add items to cart, place orders, and track order history — all within a clean and user-friendly interface.
 
 YumQuick focuses on **UI/UX excellence, performance, and real-world app flow**, making it suitable for restaurants, cafés, and food delivery startups.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 Traditional food ordering methods can be inefficient and error-prone, often relying on phone calls or poorly designed platforms.
 
 YumQuick solves this problem by offering:
@@ -18,7 +18,7 @@ YumQuick solves this problem by offering:
 
 ---
 
-## 👥 Target Users
+##  Target Users
 - General users & food lovers
 - Restaurants and cafés
 - Food delivery services
@@ -26,24 +26,24 @@ YumQuick solves this problem by offering:
 
 ---
 
-## ✨ Key Features
-- 🍕 Browse food by categories (Snacks, Meal, Vegan, Dessert, Drinks)
-- 🔍 Search and explore dishes easily
-- 📸 High-quality food images with details
-- ➕ Add toppings and customize items
-- 🛒 Cart management system
-- 💳 Secure checkout flow
-- 📦 Order confirmation & delivery estimation
-- 📜 Order history (Active, Completed, Cancelled)
-- ⭐ Rate and review orders
-- 🔐 User authentication (Login / Sign Up)
-- 👆 Fingerprint authentication support
-- 🧑‍💬 Help center & customer support
-- 📱 Modern, responsive UI design
+##  Key Features
+-  Browse food by categories (Snacks, Meal, Vegan, Dessert, Drinks)
+-  Search and explore dishes easily
+-  High-quality food images with details
+-  Add toppings and customize items
+-  Cart management system
+-  Secure checkout flow
+-  Order confirmation & delivery estimation
+-  Order history (Active, Completed, Cancelled)
+-  Rate and review orders
+-  User authentication (Login / Sign Up)
+-  Fingerprint authentication support
+-  Help center & customer support
+-  Modern, responsive UI design
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - Flutter (Dart)
@@ -65,7 +65,7 @@ YumQuick solves this problem by offering:
 
 ---
 
-## 🧠 Application Flow
+##  Application Flow
 - Splash Screen & Branding
 - Onboarding Screens
 - Authentication (Login / Sign Up)
@@ -78,7 +78,7 @@ YumQuick solves this problem by offering:
 
 ---
 
-## 🔒 Security & Reliability
+##  Security & Reliability
 - Secure user authentication
 - Encrypted data transmission
 - Controlled access to user data
@@ -86,7 +86,7 @@ YumQuick solves this problem by offering:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 UI screenshots demonstrating the complete app flow are included in this repository.
 
 screenshots/
@@ -105,22 +105,21 @@ screenshots/
 
 ---
 
-## 🔒 Source Code
+##  Source Code
 The source code for this project is **private** due to intellectual property considerations.
 
 📩 Code can be shared **upon request**.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Abdul Rehman**  
-🎓 BS Computer Science  
-📧 Email: itsrehmn@gmail.com  
-🔗 GitHub / LinkedIn: iabdulrehman77
+ Email: itsrehmn@gmail.com  
+ GitHub / LinkedIn: iabdulrehman77
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - Real-time order tracking
 - Online payment gateway integration
 - Push notifications
